@@ -5,7 +5,7 @@
 
 # Description
 
-AI model based on ResNet50, acc = 100%, also integration into telegram bot, original dataset was deleted, to get it write to telegram @KaliyevArsen
+AI model based on ResNet50, acc = 100%, also integration into telegram bot, original dataset was deleted, so to get it write to telegram @KaliyevArsen, or you can ask for a pre-trained model
 
 # Installation
 
